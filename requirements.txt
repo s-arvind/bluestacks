@@ -1,0 +1,6 @@
+fastapi
+google-api-python-client
+uvicorn
+pymongo
+discord.py
+python-decouple
